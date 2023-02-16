@@ -8,3 +8,5 @@ Conceitos trabalhados:
 :dizzy:Tags do HTML e suas funções.
 </br>
 :dizzy:Sintaxe do CSS, propriedades, valores, imagens, fontes, cores, espaçamentos, bordas, posicionamentos, alinhamentos, textos, etc.
+
+![proj01](https://user-images.githubusercontent.com/81052476/219400127-be6e51fc-7657-45d6-90c0-7f26b6277869.PNG)
