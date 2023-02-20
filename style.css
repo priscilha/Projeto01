@@ -45,11 +45,18 @@ p, #footer {
     width: 568px;
     height: 0px;
     border: 1px solid #ECEFF2;
-    margin: 0 auto 8px;
+    margin: 70px auto 8px;
 }
 
 #balls{
     position: fixed;
-    top: 0px;
+    top: 70px;
     right: 0px;
+}
+
+ #line {
+    width: 1000px;
+   margin: auto;
+    border: 1px solid #ECEFF2;
+    
 }
