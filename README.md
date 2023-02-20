@@ -15,3 +15,8 @@ Transformação de layout do [**Figma**](https://www.figma.com/file/zsZvoZvAVDLT
 ![proj01](https://user-images.githubusercontent.com/81052476/219400127-be6e51fc-7657-45d6-90c0-7f26b6277869.PNG)
 
 :seedling: HTML | CSS
+
+**Corrigindo bugs 01**
+
+![bugpro01](https://user-images.githubusercontent.com/81052476/220210677-c0502ecc-ae20-4e06-a8ca-0da70df7936c.PNG)
+
